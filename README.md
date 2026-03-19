@@ -2,7 +2,7 @@
 
 Trim audio files to a precise time range with waveform visualization, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/audio-tools/audio-clipper
+**Live Demo:** https://file-converter-free.com/en/audio-tools/trim-audio-online-free
 
 ## How It Works
 
